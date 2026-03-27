@@ -1,5 +1,5 @@
 # 💫 About Me:
-High school developer focused on computer science and software engineering. Building games with Unreal Engine 5 and Python
+A High school developer focused on computer science and software engineering. Building games with Unreal Engine 5 and Python
 
 
 ## 🌐 Socials:
